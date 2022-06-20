@@ -52,26 +52,26 @@
 }
 
 .edit .button.pressed {
-    background-position-y: -48px;
+    background-position-y: -49px;
     margin-top: 5px;
     opacity: 1;
 }
 
 .edit .a {
     background-position: 0 0;
-    top: 108px;
+    top: 106px;
     left: 55px;
 }
 
 .edit .b {
     background-position: -49px 0;
-    top: 57px;
-    right: 3px;
+    top: 55px;
+    right: 0px;
 }
 
 .edit .x {
     background-position: -98px 0;
-    top: 57px;
+    top: 55px;
     left: 4px;
 }
 
