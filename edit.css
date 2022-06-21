@@ -27,7 +27,7 @@
 }
 
 .edit .back, .edit .start {
-    background: url(https://imblakeluna.github.io/amethystcontroller/start-select.png);
+    background: url(https://imblakeluna.github.io/amethystcontroller/start-selectblue.svg);
     width: 33px;
     height: 33px;
     opacity: 0;
@@ -48,7 +48,7 @@
 
 .edit .button {
   position: absolute;
-  background: url(https://imblakeluna.github.io/amethystcontroller/abxy.png);
+  background: url(https://imblakeluna.github.io/amethystcontroller/abxyblue.svg);
 }
 
 .edit .button.pressed {
@@ -60,24 +60,24 @@
 .edit .a {
     background-position: 0 0;
     top: 106px;
-    left: 55px;
+    left: 54px;
 }
 
 .edit .b {
     background-position: -49px 0;
     top: 55px;
-    right: 0px;
+    right: -1px;
 }
 
 .edit .x {
     background-position: -98px 0;
     top: 55px;
-    left: 4px;
+    left: 3px;
 }
 
 .edit .y {
     background-position: 48px 0;
-    left: 55px;
+    left: 54px;
     top: 5px;
 }
 
